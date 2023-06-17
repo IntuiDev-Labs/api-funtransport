@@ -5,7 +5,7 @@
 $ git clone https://github.com/IntuiDev-Labs/api-funtransport.git
 
 # Acesse a pasta da aplicação
-$ cd funtransport-api
+$ cd api-funtransport
 ```
 
 ```
