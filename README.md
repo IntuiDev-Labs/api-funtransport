@@ -2,10 +2,10 @@
 
 ```
 # Abra um terminal e copie este repositório com o comando
-$ git clone https://github.com/AdrianMouzinho/funtransport-api.git
+$ git clone https://github.com/IntuiDev-Labs/api-funtransport.git
 
 # Acesse a pasta da aplicação
-$ cd api-funtransport
+$ cd funtransport-api
 ```
 
 ```
@@ -19,5 +19,5 @@ $ npm run dev
 
 # Ela abrirá em http://localhost:3333
 
-# Utilize o insomnia ou outro programa para cadastrar as categorias e os produtos, respectivamente
+# Utilize o insomnia ou outro programa para testar a api
 ```
