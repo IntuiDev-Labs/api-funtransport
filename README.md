@@ -12,7 +12,7 @@ $ cd api-funtransport
 # Instale as dependências
 $ npm install
 
-# Renomei o arquivo .env.example para .env e coloque a sua url de conexão com o banco de dados
+# Renomei o arquivo .env.example para .env e altere as variáveis de ambiente
 
 # Inicie a aplicação
 $ npm run dev
